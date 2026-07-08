@@ -1,0 +1,19 @@
+[16-Jun-2026 13:09:41 UTC] PHP Warning:  Undefined array key "code" in /home4/varunim1/public_html/assests/cp/version26/online/zd/clients/loading.php on line 7
+[17-Jun-2026 07:36:58 UTC] PHP Warning:  require_once(functions.php): Failed to open stream: No such file or directory in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php on line 8
+[17-Jun-2026 07:36:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php:8
+Stack trace:
+#0 /home4/varunim1/public_html/assests/cp/version26/online/zd/clients/passe.php(6): require_once()
+#1 {main}
+  thrown in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php on line 8
+[17-Jun-2026 07:37:04 UTC] PHP Warning:  require_once(functions.php): Failed to open stream: No such file or directory in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php on line 8
+[17-Jun-2026 07:37:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php:8
+Stack trace:
+#0 /home4/varunim1/public_html/assests/cp/version26/online/zd/clients/passe.php(6): require_once()
+#1 {main}
+  thrown in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php on line 8
+[17-Jun-2026 07:37:12 UTC] PHP Warning:  require_once(functions.php): Failed to open stream: No such file or directory in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php on line 8
+[17-Jun-2026 07:37:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php:8
+Stack trace:
+#0 /home4/varunim1/public_html/assests/cp/version26/online/zd/clients/passe.php(6): require_once()
+#1 {main}
+  thrown in /home4/varunim1/public_html/assests/cp/version26/online/zd/includes/main.php on line 8
